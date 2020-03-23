@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74543104160",
+    "firebase_url": "https://worklist-62fe5.firebaseio.com",
+    "project_id": "worklist-62fe5",
+    "storage_bucket": "worklist-62fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74543104160:android:330d1b887ab026532849c5",
+        "android_client_info": {
+          "package_name": "minji.work_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74543104160-jc65v1247mmtm82slqqenrnviqecie98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8xAMgzzO085XDyOnejoizkSMJWxgDhLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74543104160-jc65v1247mmtm82slqqenrnviqecie98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
